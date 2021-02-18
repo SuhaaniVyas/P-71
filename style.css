@@ -1,0 +1,57 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+html {
+    text-align: center;
+}
+
+.mynavbar {
+    position: sticky;
+    z-index: 1000;
+    top: 0;
+}
+.img-responsive {
+    width: 200px;
+    height: 200px;
+}
+#campus {
+    margin-bottom: 200px;
+    margin-left: 200px;
+}
+#campus img {
+    margin: auto;
+}
+.innovation {
+    width: 230px;
+    height: 170px;
+    text-align: center;
+}
+#new {
+    text-align: center;
+}
+.modal-body {
+    text-align: center;
+}
+.p_modal {
+    margin-top: 10px;
+}
+.img_modal {
+    display: inline-block;
+}
+.modal-content {
+    margin-top: 100px;
+}
+#alumni {
+    text-align: center;
+}
+#222 {
+ margin-left: 200px;
+}
+ 
+
+
+
+
+
